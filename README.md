@@ -38,11 +38,6 @@ model, (0,1) point corresponds to fine-tuned model on SQuAD 1.1 dataset
 
 </p>
 
-Despite the complexity of Transformers architecture, 1-Dimensional
-and 2-Dimensional methods of loss landscape exploration were proven to be
-effortlessly applicable, providing ground for performed analysis of fine-tuning
-process of QA task. 
-
 Work based on:
 Hao Li, Zheng Xu, Gavin Taylor, Christoph Studer and Tom Goldstein. [Visualizing the Loss Landscape of Neural Nets.](https://arxiv.org/abs/1712.09913) NIPS, 2018.
 
