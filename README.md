@@ -39,7 +39,7 @@ model, (0,1) point corresponds to fine-tuned model on SQuAD 1.1 dataset
 </p>
 
 Work based on:
-Hao Li, Zheng Xu, Gavin Taylor, Christoph Studer and Tom Goldstein. [Visualizing the Loss Landscape of Neural Nets.](https://arxiv.org/abs/1712.09913) NIPS, 2018.
+Hao Li, Zheng Xu, Gavin Taylor, Christoph Studer and Tom Goldstein. [Visualizing the Loss Landscape of Neural Nets.](https://arxiv.org/pdf/1712.09913.pdf) NIPS, 2018.
 
 Made with Python as a part of thesis for masters, FDT ITMO
 
