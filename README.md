@@ -13,34 +13,11 @@ significant training speed and model configuration weight advantage over
 other Transformer models while not compromising accuracy, was trained on
 QA task.
 
-
-
 <p align="center">
-  <img src="https://github.com/stas1f1/Transformers-Loss-Landscape/blob/main/squad%200-100%20with%20loss%20on%20total.png" width="500" title="hover text">
-  <p align="center">1-Dimensional loss and F1-score plot for interpolated values.
-  x=0 corresponds to untuned model, x=1 corresponds to fine-tuned model
-  on SQuAD 1.1 dataset
-</p>
-
-
-<p align="center">
-  <img src="https://github.com/stas1f1/Transformers-Loss-Landscape/blob/main/heatmap_final.png" width="500" title="hover text">
-  <p align="center">2-Dimensional loss surface contour plot. (0,0) point
-  corresponds to untuned model, (0,1) point corresponds to fine-tuned model
-  on SQuAD 1.1 dataset
-
+  <img src="https://github.com/stas1f1/VK-User-Analysis/blob/main/User%20profiles.png" width="500" title="hover text">
 </p>
 
 <p align="center">
-  <img src="https://github.com/stas1f1/Transformers-Loss-Landscape/blob/main/heatmap_trajectory_final.png" width="500" title="hover text">
-  <p align="center">Visualization of projected optimization trajectory on
-  2-dimensional loss surface contour plot. (0,0) point corresponds to untuned
-  model, (0,1) point corresponds to fine-tuned model on SQuAD 1.1 dataset
-
+  <img src="https://github.com/stas1f1/VK-User-Analysis/blob/main/total-groups.png" width="500" title="hover text">
+  <p align="center">Spam rates throughout groups
 </p>
-
-Work based on:
-> Hao Li, Zheng Xu, Gavin Taylor, Christoph Studer and Tom Goldstein. [Visualizing the Loss Landscape of Neural Nets.](https://arxiv.org/pdf/1712.09913.pdf) NIPS, 2018.
-
-Made with Python as a part of thesis for masters, FDT ITMO
-
