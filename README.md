@@ -16,7 +16,7 @@ QA task.
 
 <p align="center">
   <img src="https://github.com/stas1f1/Transformers-Loss-Landscape/blob/main/squad%200-100%20with%20loss%20on%20total.png" width="500" title="hover text">
-  1-Dimensional loss and F1-score plot for interpolated values.
+  <p>1-Dimensional loss and F1-score plot for interpolated values.
   x=0 corresponds to untuned model, x=1 corresponds to fine-tuned model
   on SQuAD 1.1 dataset
 </p>
@@ -24,7 +24,7 @@ QA task.
 
 <p align="center">
   <img src="https://github.com/stas1f1/Transformers-Loss-Landscape/blob/main/heatmap_final.png" width="500" title="hover text">
-  2-Dimensional loss surface contour plot. (0,0) point
+  <p>2-Dimensional loss surface contour plot. (0,0) point
   corresponds to untuned model, (0,1) point corresponds to fine-tuned model
   on SQuAD 1.1 dataset
 
@@ -32,9 +32,9 @@ QA task.
 
 <p align="center">
   <img src="https://github.com/stas1f1/Transformers-Loss-Landscape/blob/main/heatmap_trajectory_final.png" width="500" title="hover text">
-  Visualization of projected optimization trajectory on
-2-dimensional loss surface contour plot. (0,0) point corresponds to untuned
-model, (0,1) point corresponds to fine-tuned model on SQuAD 1.1 dataset
+  <p>Visualization of projected optimization trajectory on
+  2-dimensional loss surface contour plot. (0,0) point corresponds to untuned
+  model, (0,1) point corresponds to fine-tuned model on SQuAD 1.1 dataset
 
 </p>
 
